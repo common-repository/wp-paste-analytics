@@ -1,0 +1,49 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-paste-analytics\n"
+"POT-Creation-Date: 2012-10-04 05:43:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wppa.php:33 wppa.php:85
+msgid "Settings"
+msgstr ""
+
+#: wppa.php:71
+msgid "Yandex"
+msgstr ""
+
+#: wppa.php:102 wppa.php:126
+msgid "Official site"
+msgstr ""
+
+#: wppa.php:111
+msgid "Enter your Google Analytics tracking code"
+msgstr ""
+
+#: wppa.php:115
+msgid "Google verification"
+msgstr ""
+
+#: wppa.php:118 wppa.php:142
+msgid "Example"
+msgstr ""
+
+#: wppa.php:135
+msgid "Enter your Yandex Metrika tracking code"
+msgstr ""
+
+#: wppa.php:139
+msgid "Yandex verification"
+msgstr ""
+
+#: wppa.php:152
+msgid "Save Draft"
+msgstr ""
